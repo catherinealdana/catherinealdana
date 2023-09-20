@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Catherine,
 ==============================================================================================================================
 
-Software Engineer | Developer | UX Design
+Full Stack Developer | UX Design
 -----------------------------------------
 
 I'm a versatile Software Engineer and UX Designer passionate about weaving technology and creativity into seamless user experiences. With tech skills such as JavaScript, HTML5, CSS3, React Native, Node.js, PostgreSQL, UX design, and more, I thrive on crafting innovative solutions. Welcome to my portfolio, where I showcase the fusion of code and design that defines my journey.
