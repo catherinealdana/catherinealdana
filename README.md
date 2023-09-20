@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | UX Design
 -----------------------------------------
 
-I'm a versatile Software Engineer and UX Designer passionate about weaving technology and creativity into seamless user experiences. With tech skills such as JavaScript, HTML5, CSS3, React Native, Node.js, PostgreSQL, UX design, and more, I thrive on crafting innovative solutions. Welcome to my portfolio, where I showcase the fusion of code and design that defines my journey.
+I'm a versatile Full Stack Dev and Designer with UX emphasis, passionate about weaving technology and creativity into seamless user experiences. With tech skills such as JavaScript, HTML5, CSS3, React Native, Node.js, PostgreSQL, UX design, and more, I thrive on crafting innovative solutions. Welcome to my GitHub Profile, where I showcase the fusion of code and design that defines my journey.
 
 * 🌍  I'm based in Atlanta, GA ( at the moment 😏)
 * ✉️  You can contact me at [catherinealdana16@gmail.com](mailto:catherinealdana16@gmail.com)
