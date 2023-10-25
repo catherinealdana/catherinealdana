@@ -10,7 +10,7 @@ I'm an adaptable Full Stack Dev and Designer with a deep commitment to weaving t
 * ✉️  You can contact me at [catherinealdana16@gmail.com](mailto:catherinealdana16@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Open Source and Projects
-* ⚡  I'm an Illustrator and I like to drain my brain in doodles 🦄
+* ⚡  I'm an Illustrator and I like to drain my brain in doodles 🦄 : https://www.behance.net/cathealdana1
 
 ### Skills
 
